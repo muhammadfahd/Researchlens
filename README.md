@@ -1,6 +1,8 @@
 # ResearchLens
 # Research Lens
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/29fe2746-a3be-426f-acb5-14a4a4114510" />
+
 ResearchLens is an AI-powered research assistant that lets users upload and interact with their own documents.
 
 ## Current Features
